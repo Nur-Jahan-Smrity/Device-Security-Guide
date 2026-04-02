@@ -1,10 +1,13 @@
 🛡️ Device Security Guide for Testing – Complete Best Practices
+
 📌 Overview
 
 This guide explains how to keep your device safe while testing. It focuses on protecting against:
 
 Data leakage 🔓
+
 Viruses & malware 🦠
+
 Phishing & spam 🎣
 
 👉 Keeping your device secure ensures:
